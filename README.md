@@ -8,7 +8,7 @@ _[DISCLAIMER] All links and materials in this repository are for exam preparatio
 - [Security Best Practices in Google Cloud](https://www.cloudskillsboost.google/course_templates/87)
 - [Mitigating Security Vulnerabilities on Google Cloud](https://www.cloudskillsboost.google/course_templates/88)
 
-    > Official e-learning from Google Cloud. If you attended Networking in Google Cloud class before, you are able to rewatch what you learned with this e-learning.
+    > Official e-learning from Google Cloud. If you attended Security in Google Cloud Platform class before, you are able to rewatch what you learned with this e-learning.
 
 ### 2. Exam Guide
 - [Professional Cloud Security Engineer: Certification Exam Guide](https://cloud.google.com/certification/guides/cloud-security-engineer)
